@@ -1,4 +1,4 @@
 ---
-title: Factor App
+title: Markdown
 description: An overview of the Markdown syntax Starlight supports.
 ---
